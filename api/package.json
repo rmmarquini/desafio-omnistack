@@ -1,0 +1,14 @@
+{
+  "name": "be-a-hero-api",
+  "version": "1.0.0",
+  "description": "Be a Hero Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Mardegan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
