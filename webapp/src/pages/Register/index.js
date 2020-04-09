@@ -7,7 +7,7 @@ import './styles.css';
 import logoImg from '../../assets/logo.png';
 
 export default function Register() {
-    // HISTORICO DE TRANSMISSAO DO USUARIO E UTILIZADO PARA REDIRECIONAMENTOS APOS ACOES DA API
+    // NAVEGACAO ATRAVES DO JS UTILIZADO PARA REDIRECIONAMENTOS APOS ACOES DA API
     const history = useHistory();
 
     // ARMAZENANDO OS ESTADOS DE CADA INPUT DA PAGINA
